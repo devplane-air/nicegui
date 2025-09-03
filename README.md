@@ -8,6 +8,8 @@
 NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser.
 You can create buttons, dialogs, Markdown, 3D scenes, plots and much more.
 
+<!-- This is a test comment added by Devin for PR verification -->
+
 It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases.
 You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.
 
